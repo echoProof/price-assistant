@@ -1,0 +1,25 @@
+# Environment
+.env
+.venv/
+
+# Data
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# Claude
+.claude/
+
+# Docs (generated)
+docs/
+
+# LangGraph
+.langgraph_api/

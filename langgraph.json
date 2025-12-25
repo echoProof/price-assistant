@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "python-ai-agent": "./src/main.py:graph"
+  },
+  "env": ".env"
+}
